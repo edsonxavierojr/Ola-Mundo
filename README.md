@@ -1,2 +1,2 @@
-# Ola Mundo
-Primeiro repositório do curso de Git e GitHub
+# Hello Word
+This is my first Git and GitHub repository 
